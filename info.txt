@@ -1,0 +1,3 @@
+light
+enable
+system-Tray

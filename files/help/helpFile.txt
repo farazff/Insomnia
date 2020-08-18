@@ -1,0 +1,16 @@
+please Enter the url first
+
+list : show the list of saved requests --> list
+fire : to run requests --> fire google yahoo (runs requests named google and yahoo)
+-R --remove : for removing saved Requests --> remove google yahoo (removw requests named google and yahoo)
+-I : for getting just headers --> -I
+-i : for getting both headers and response body --> -i
+-D --data : for giving multipart form data  --> --data "key1=value1&key2=value2"
+-URL --urlencoded : for giving urlencoded form data  --> -URL "key1=value1&key2=value2"
+-U --upload : for uploading a file with absolute path in hard drive --> -U c:/users/faraz/desktop/text.txt
+-O --output : for saving response in a file --> -O fileName
+-H --header : for giving headers --> -h "k1:v1;k2:v2"
+-S --save : for save the request in a file and you must give its name --> -S google
+
+
+
